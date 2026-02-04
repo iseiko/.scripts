@@ -2,14 +2,14 @@
 
 # ----- #
 
-$DIR="~/my_install"
-$CONF="$DIR/configs"
-$UCONF="~/.config"
-$WALL="$CONF/pictures/Wallpapers"
-$UWALL="~/Pictures/wallpapers"
-$ZSH="$CONF/zsh/zsh"
-$UHYM="$UCONF/hypr/modules"
-$HYM="$CONF/hypr/modules"
+DIR="~/my_install"
+CONF="$DIR/configs"
+UCONF="~/.config"
+WALL="$CONF/pictures/Wallpapers"
+UWALL="~/Pictures/wallpapers"
+ZSH="$CONF/zsh/zsh"
+UHYM="$UCONF/hypr/modules"
+HYM="$CONF/hypr/modules"
 
 # ----- #
 
