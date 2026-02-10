@@ -2,5 +2,5 @@
 
 # reffer to the scripts directory 
 #
-
-./scripts/install-all.sh
+cd scripts
+./begin.sh
