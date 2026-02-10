@@ -29,6 +29,6 @@ fi
 
 # now edit the .zshrc 
 
-cat ~/my_install/configs/zsh/.config/zsh/.zshrc >> ~/.zshrc
+cat ~/.dotfiles/configs/zsh/.config/zsh/.zshrc >> ~/.zshrc
 
 echo "zsh is now configured and set as your default shell"
