@@ -3,5 +3,5 @@ exec = gsettings set org.gnome.desktop.interface color-scheme "prefer-dark"
 exec-once = waybar
 exec-once = dunst
 exec-once= ~/.local/bin/wpaperd -d
-exec-once = hyprpolkitagent
+exec-once = wpaperd
 

@@ -11,7 +11,7 @@ bind = SUPER SHIFT, Q, exec, hyprctl kill
 bind = SUPER SHIFT, D, exec, hyprctl dispatch dpms
 bind = SUPER, Print, exec, grim -g "$(slurp)" - | swappy -f - 
 bind = , Print, exec, grim - | swappy -f -
-bind = SUPER, SPACE, exec, hyprlauncher
+bind = SUPER, SPACE, exec, rofi -show drun
 
 # --- OPEN APPS --- #
 
